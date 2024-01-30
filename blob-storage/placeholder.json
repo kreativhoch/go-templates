@@ -1,0 +1,12 @@
+[
+  {
+  	"placeholderKey":"blobStorageAccountName",
+  	"placeholderName":"Account name",
+  	"placeholderDescription":"Please enter here the name of the account"
+  },
+  {
+  	"placeholderKey":"blobStorageContainerName",
+  	"placeholderName":"Container name",
+  	"placeholderDescription":"Please enter here the name of the container"
+  }
+]
