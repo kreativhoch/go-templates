@@ -1,0 +1,27 @@
+[
+  {
+  	"placeholderKey":"s3Endpoint",
+  	"placeholderName":"Endpoint",
+  	"placeholderExample":"Please enter here the Endpoint"
+  },
+  {
+  	"placeholderKey":"s3Region",
+  	"placeholderName":"Region",
+  	"placeholderExample":"Please enter here the Region"
+  },
+  {
+  	"placeholderKey":"s3Bucket",
+  	"placeholderName":"Bucket",
+  	"placeholderExample":"Please enter here the Bucket"
+  },
+  {
+  	"placeholderKey":"s3Key",
+  	"placeholderName":"Key",
+  	"placeholderExample":"Please enter here the Key"
+  },
+  {
+  	"placeholderKey":"s3Secret",
+  	"placeholderName":"Secret",
+  	"placeholderExample":"Please enter here the Secret"
+  }
+]
