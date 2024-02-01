@@ -8,5 +8,10 @@
   	"placeholderKey":"blobStorageContainerName",
   	"placeholderName":"Container name",
   	"placeholderDescription":"Please enter here the name of the container"
+  },
+  {
+  	"placeholderKey":"Foued",
+  	"placeholderName":"asdfasdfasdf",
+  	"placeholderDescription":"Pasdfasdfasdfasdfasdf"
   }
 ]
