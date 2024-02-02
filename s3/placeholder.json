@@ -23,5 +23,10 @@
   	"placeholderKey":"s3Secret",
   	"placeholderName":"Secret",
   	"placeholderDescription":"Please enter here the Secret"
+  },
+  {
+  	"placeholderKey":"GoPlaceholder",
+  	"placeholderName":"Go Placholder",
+  	"placeholderDescription":"asdfasdfsdfasdf"
   }
 ]
